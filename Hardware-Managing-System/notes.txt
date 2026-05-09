@@ -1,0 +1,4 @@
+VCtfTask is a Verilator Simulation of the provided CtfTask.v
+The simulation provides context on how to interact with the Managing System implemented in it and can be used to verify the correct flag.
+The goal is to find an input for the simulation that causes the emergency-off feature that turns the managed system off when a certain temperature is reached to fail.
+With the correct input the simulation will say that the test failed and output the flag saying it needs further analysis.
