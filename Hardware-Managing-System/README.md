@@ -9,7 +9,7 @@ A "Critical System Management System" claims to shut down its managed system whe
 
 - [`WRITEUP.md`](WRITEUP.md) — full walkthrough (markdown)
 - [`WRITEUP.docx`](WRITEUP.docx) — same writeup in Word format
-- [`notes.txt`](notes.txt) — original challenge notes
+- [`challenge_files/notes.txt`](challenge_files/notes.txt) — original challenge notes
 - [`challenge_files/CtfTask.v`](challenge_files/CtfTask.v) — Yosys-synthesized Verilog netlist (~4,700 lines)
 - [`challenge_files/VCtfTask`](challenge_files/VCtfTask) — Verilator simulation binary (Linux x86-64)
 
